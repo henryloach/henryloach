@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **svelte**
 
-- 👨‍💻 All of my projects are available at [www.christianloach.com](www.christianloach.com)
+- 👨‍💻 All of my projects are available at [www.christianloach.com](https://christianloach.com)
 
 - 💬 Ask me about **JavaScript, SQL**
 
